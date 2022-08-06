@@ -1,4 +1,4 @@
-# 🍅 Flutter to do App "Todolist Tomato"
+# 🍅 Flutter App "Todolist Tomato"
 
 A new Flutter project.
 
