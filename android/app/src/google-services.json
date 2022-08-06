@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "399329027490",
+    "project_id": "todolist-tomato",
+    "storage_bucket": "todolist-tomato.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399329027490:android:019978951ad8f33301befb",
+        "android_client_info": {
+          "package_name": "com.example.todolist_tomato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399329027490-v7a4s1bj8hvoal2h8gidtr6lddmvq1bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPQ_DMQ6P0fmRussScOQCkavzzyOUzZTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399329027490-v7a4s1bj8hvoal2h8gidtr6lddmvq1bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
