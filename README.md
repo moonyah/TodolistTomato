@@ -1,7 +1,6 @@
 # 🍅 Flutter App "Todolist Tomato"
 
 A new Flutter project.
-</n>
 2022-1 모바일프로그래밍 수업 기말 과제
 
 ## Getting Started
